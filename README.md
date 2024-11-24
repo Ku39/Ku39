@@ -28,8 +28,5 @@
 
 <h3>My stat: </h3>
 <div align="center">
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ku39&theme=default)
-
-    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ku39&theme=default)
-
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ku39&theme=default"/>
 </div>
