@@ -28,5 +28,5 @@
 
 <h3>My stat: </h3>
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ku39&theme=default"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ku39&theme=discord_old_blurple"/>
 </div>
