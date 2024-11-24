@@ -14,8 +14,7 @@
 -   ✔️ Lots of solo projects
 
 <h1></h1>
-<h3>Languages and tools</h3>
-<div>
+<h3>Languages and tools: </h3>
 
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
@@ -27,5 +26,10 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" />&nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?Ku39=vn7n24fzkq&theme=default"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?Ku39=vn7n24fzkq&theme=default"/>
+<h3>My stat: </h3>
+<div align="center">
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ku39&theme=default)
+
+    ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ku39&theme=default)
+
+</div>
